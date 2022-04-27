@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my Portfolio projects
+- 🔭 I’m currently working on my Portfolio project
 - 🌱 I’m currently learning React
 - 👯 I'm looking for a job as a Junior React/Frontend Developer
 - ⚡ Fun fact: I'm like play chess and coding
