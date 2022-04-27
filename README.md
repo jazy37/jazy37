@@ -1,5 +1,4 @@
-### Hi there 👋
-<h1>I love dogs </h1>
+### <h1> Hi there </h1> 👋
 
 <!--
 **jazy37/jazy37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
