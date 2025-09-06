@@ -19,6 +19,9 @@
 <img align="left" alt="git" width="25px" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" />
 <img align="left" alt="github" width="25px" src="https://pics.freeicons.io/uploads/icons/png/10412341841540553610-512.png" />
 <img align="left" alt="linux" width="25px" src="https://pics.freeicons.io/uploads/icons/png/3525127881551941184-512.png" />
+<img align="left" alt="python" width="25px" src="https://pics.freeicons.io/uploads/icons/png/3525127881551941184-512.png" />
+
+
 
 [facebook]: https://www.facebook.com/profile.php?id=100009685183048
 [instagram]: https://www.instagram.com/_kulesza_/
