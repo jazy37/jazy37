@@ -19,7 +19,7 @@
 <img align="left" alt="git" width="25px" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" />
 <img align="left" alt="github" width="25px" src="https://pics.freeicons.io/uploads/icons/png/10412341841540553610-512.png" />
 <img align="left" alt="linux" width="25px" src="https://pics.freeicons.io/uploads/icons/png/3525127881551941184-512.png" />
-<img align="left" alt="python" width="25px" src="[https://pics.freeicons.io/uploads/icons/png/3525127881551941184-512.png](https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png)" />
+<img align="left" alt="python" width="25px" src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png" />
 
 
 
