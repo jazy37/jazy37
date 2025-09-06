@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my Portfolio projects
+- 💻 I'm currently working on my ##Portfolio projects##
 - ⚡ Fun fact: I'm like play chess and coding
+- 🔭 Passionate about creating innovative solutions
 
 ### Connect with me: 
 [<img align="left" alt="facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleearth.svg" />][mypages]
