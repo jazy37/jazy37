@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 I'm currently working on my ##Portfolio projects##
+- 💻 I'm currently working on my ###Portfolio projects
 - ⚡ Fun fact: I'm like play chess and coding
 - 🔭 Passionate about creating innovative solutions
 
